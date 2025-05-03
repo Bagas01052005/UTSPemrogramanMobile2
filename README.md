@@ -1,5 +1,5 @@
 # UTSPemrogramanMobile2
-# BagasPrihantoroPutra312310599TimerWithNavbar
+# Bagas Prihantoro Putra 312310599 Timer With Navbar
 ![gambar](UIUX/1.png)
 ![gambar](UIUX/2.png)
 ![gambar](UIUX/3.png)
