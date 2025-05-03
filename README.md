@@ -1,2 +1,2 @@
 # UTSPemrogramanMobile2
-![gambar](UI UX/1.png)
+![gambar](UIUX/1.png)
